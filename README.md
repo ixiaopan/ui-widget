@@ -1,1 +1,1 @@
-some web ui widgets
+Useful UI Widgets employed in web development
